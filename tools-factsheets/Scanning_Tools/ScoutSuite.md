@@ -1,5 +1,3 @@
-![[Scoutsuite_logo.png]]
-
 # ScoutSuite - Multi Cloud Security-Auditing Tool
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sollicitudin justo. Morbi efficitur congue nisi euismod fringilla. Suspendisse porta sed velit et lobortis.
 
@@ -23,11 +21,4 @@ ___
 ![[scoutsuite_screen_3.png]]
 ![[scoutsuite_screen_1.png]]
 ![[scoutsuite_screen_2.png]]
-
----
-## Reads:
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]] - Page 313
-- [[CompTIA_PT0-002_For_Dummies.pdf]] - Page 359
-- [[CompTIA_PT0-002_Pearson_Cert_Guide.pdf]] - Page 863
-- [[CompTIA_PT0-002_Sybex_Study_Guide.pdf]] - Page 73
 

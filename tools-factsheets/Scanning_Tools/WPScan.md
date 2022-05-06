@@ -1,4 +1,3 @@
-![[wpscan_logo.png]]
 # WPScan - Wordpress Security Scanner
 >A web application security scanner that focuses on WordPress installations. It attempts to identify insecure WordPress configurations and plugins based on versioning data, username enumeration, known default passwords, exposed files, and a database of known vulnerabilities. The tool requires a license to be used commercially.
 
@@ -23,6 +22,3 @@ ___
 ___
 ## Screens:
 ![[wpscan_screen_1.png]]
-___
-## Reads:
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]] - Page 592

@@ -1,5 +1,3 @@
-![[openvas_logo.png]]
-
 # OpenVAS - Open Vulnerability Assessment Scanner
 > A free vulnerability scanner and an opensource alternative to Nessus. The library of vulnerabilities and tests that it uses are community contributed, and it may have different findings than other vulnerability scanners such as Nessus, but it provides a free and opensource alternative to other options for fast vulnerability identification and attack surface enumeration.
 
@@ -22,7 +20,4 @@ ___
 ## Screens:
 ![[openvas_screen_2.png]]
 ![[openvas_screen_1.png]]
-___
-## Reads:
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]]- Page 583
 

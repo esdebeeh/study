@@ -1,5 +1,3 @@
-![[sqlmap_logo.png]]
-
 # SQLMap - Automatic SQL injection and database takeover tool
 >Attempts to automatically identify and exploit SQL injection when supplied with a target URL.
 >If you were performing a web application pentest and identified a potential SQL injection in a form using Burp Scanner, you could take the URL and give it to SQLmap. SQLmap would attempt to identify a working SQL injection string so that you could exploit the vulnerability and examine the impact or provide a proof of concept for exploitation during the pentest.
@@ -32,10 +30,5 @@ ___
 ## Screens:
 ![[sqlmap_screen_1.png]]
 ![[sqlmap_screen_2.png]]
-
----
-## Reads:
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]] - Page 393
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]] - Page 259 (Example)
 
 

@@ -1,5 +1,3 @@
-![[nikto_logo.png]]
-
 # Nikto - Web Vulnerability Scanner
 A free software command-line vulnerability scanner that scans webservers for dangerous files/CGIs, outdated server software and other problems. It performs generic and server type specific checks. It also captures and prints any cookies received.
 -> <span style="color:red">Generates a lot of traffic, not a stealthy tool</span>
@@ -29,10 +27,3 @@ ___
 
 ![[nikto_scan_2.png]]
 *Nikto Scan output with explanations*
-___
-## Reads
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]] - Page 582
-- [[CompTIA_PT0-002_Dion_Study_Notes.pdf]] - Page 52
-- [[CompTIA_PT0-002_Sybex_Study_Guide.pdf]] - Page 182
-- [[CompTIA_PT0-002_Pearson_Cert_Guide.pdf]] - Page 222
-- [[CompTIA_PT0-002_For_Dummies.pdf]] - Page 140

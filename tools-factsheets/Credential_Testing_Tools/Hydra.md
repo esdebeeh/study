@@ -1,5 +1,3 @@
-IMAGE / LOGO / ICON
-
 # Hydra
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sollicitudin justo. Morbi efficitur congue nisi euismod fringilla. Suspendisse porta sed velit et lobortis.
 

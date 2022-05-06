@@ -1,5 +1,3 @@
-![[nessus_logo.png]]
-
 # Nessus - Vulnerability Scanner
 > A vulnerability scanner that performs network discovery using port scans and enumerate services from either an authenticated or nonauthenticated context. 
 > 
@@ -32,7 +30,3 @@ ___
 
 ![[nessus_screen_2.png]]
 *Host Scan*
-___
-## Reads:
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]] - Page 581
-- [[CompTIA_PT0-002_Sybex_Study_Guide.pdf]] - Page 184

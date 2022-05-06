@@ -1,4 +1,3 @@
-![[brakeman_logo.png]]
 ## Brakeman - Ruby On Rails SAST Scanner
 A free vulnerability scanner specifically designed for Ruby on Rails applications. It statically analyzes Rails application code to find security issues at any stage of development.
 -> Brakeman looks at the source code of an application

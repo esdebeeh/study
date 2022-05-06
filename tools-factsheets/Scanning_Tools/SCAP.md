@@ -22,6 +22,5 @@ ___
 
 ---
 ## Reads:
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]] - Page 586
 - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf
 

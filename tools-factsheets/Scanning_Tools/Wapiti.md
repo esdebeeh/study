@@ -1,4 +1,3 @@
-![[wapiti_logo.png]]
 # Wapiti - Web Vulnerability Scanner
 >A command-line tool that fuzzes web applications during a black box penetration test and attempts to identify SQL injections, XSS, file disclosure vulnerabilities, XXE, CRLF, and more. It can also attempt brute-forcing of files, directories, and login forms. 
 
@@ -22,8 +21,5 @@ ___
 ___
 ## Screens:
 ![[wapiti_screen_1.png]]
-___
-## Reads:
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]] - Page 591
 
 
