@@ -29,7 +29,10 @@
 `$ unshadow passwd.txt shadow.txt > unshadowed.txt `
 
 unshadowed.txt `root:$6$riekpK4m$uBdaAyK0j9WfMzvcSKYVfyEHGtBfnfpiVbYbzbVmfbneEbo0wSijW1GQussvJSk8X1M56kzgGj8f7DFN1h4dy1:0:0:root:/root:/bin/bash`
+
 `$ john --wordlist=/usr/share/wordlists/rockyou.txt unshadowed.txt`
+
 `$ zip2john protected.zip > zip.hashes `
+
 `$ john --wordlist=/usr/share/wordlists/crypton.txt zip.hashes`
 
