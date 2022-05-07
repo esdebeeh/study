@@ -14,10 +14,8 @@
 `hydra -l <USER> -p <PASSWORD> <IP_ADDRESS> http-post-form "<LOGIN_PAGE>:<REQUEST_BODY>:<ERROR_MESSAGE> PHPSESSID=<COOKIE>`
 example
 `hydra -l admin -p admin 10.10.15.42 http-post-form "/login:username=^USER^&pwd=^PASS^&submit=login:F=Invalid Credentials`
-![[hydra.png]]
 ___
 - MITRE:
-- OS:
 - License:
 
 ##### Links:

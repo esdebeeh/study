@@ -6,7 +6,6 @@ ___
 - MITRE: 
 	- [Reconnaissance](https://attack.mitre.org/tactics/TA0043/) -> [T1595 Active Scanning](https://attack.mitre.org/techniques/T1595/) -> [002 Vulnerability Scanning](https://attack.mitre.org/techniques/T1595/002/)
 - Publisher / Developer: [WPScan](https://wpscan.com/)
-- OS: #CrossPlatform
 - License: https://raw.githubusercontent.com/wpscanteam/wpscan/master/LICENSE
 
 
@@ -18,7 +17,7 @@ ___
 - TryHackMe: https://tryhackme.com/room/blog
 - HTBAcademy: 
 	- https://academy.hackthebox.com/module/details/17 - Hacking Wordpress
-	- https://academy.hackthebox.com/module/details/113 - Attacking CommonApplications
+	- https://academy.hackthebox.com/module/details/113 - Attacking Common Applications
 ___
 ## Screens:
 ![[wpscan_screen_1.png]]

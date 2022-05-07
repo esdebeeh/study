@@ -5,7 +5,6 @@
 - MITRE:
 	- [Credential Access]() -> [T1110 Brute Force](https://attack.mitre.org/techniques/T1110/) ->[002 Password Cracking](https://attack.mitre.org/techniques/T1110/002/)
 - Publisher / Developer: OpenWall
-- OS: #CrossPlatform
 - License: https://github.com/openwall/john-packages/blob/master/LICENSE.txt
 
 #### Links:
@@ -33,6 +32,4 @@ unshadowed.txt `root:$6$riekpK4m$uBdaAyK0j9WfMzvcSKYVfyEHGtBfnfpiVbYbzbVmfbneEbo
 `$ john --wordlist=/usr/share/wordlists/rockyou.txt unshadowed.txt`
 `$ zip2john protected.zip > zip.hashes `
 `$ john --wordlist=/usr/share/wordlists/crypton.txt zip.hashes`
-
----
 

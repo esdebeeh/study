@@ -6,7 +6,6 @@ ___
 - MITRE: 
 	- [Reconnaissance](https://attack.mitre.org/tactics/TA0043/) -> [T1595 Active Scanning](https://attack.mitre.org/techniques/T1595/) -> [002 Vulnerability Scanning](https://attack.mitre.org/techniques/T1595/002/)
 - Publisher / Developer: https://www.greenbone.net/
-- OS: #UnixLike, #FreeBSD
 - License: GPL (Free Software)
 
 ##### Links:

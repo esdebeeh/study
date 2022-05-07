@@ -6,7 +6,6 @@ ___
 - MITRE: 
 	- [Reconnaissance](https://attack.mitre.org/tactics/TA0043/) -> [T1595 Active Scanning](https://attack.mitre.org/techniques/T1595/) -> [002 Vulnerability Scanning](https://attack.mitre.org/techniques/T1595/002/)
 - Publisher / Developer: [Nicolas Surribas](http://devloop.users.sourceforge.net/)
-- OS: #UnixLike 
 - License: https://github.com/wapiti-scanner/wapiti/blob/master/LICENSE
 
 

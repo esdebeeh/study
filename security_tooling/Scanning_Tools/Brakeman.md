@@ -11,7 +11,6 @@ ___
 - MITRE: 
 	- [Reconnaissance](https://attack.mitre.org/tactics/TA0043/) -> [T1595 Active Scanning](https://attack.mitre.org/techniques/T1595/) -> [002 Vulnerability Scanning](https://attack.mitre.org/techniques/T1595/002/)
 - Publisher / Developer: Justin Collins aka https://presidentbeef.com/ns/
-- OS: #UnixLike
 - License: https://github.com/presidentbeef/brakeman/blob/main/LICENSE.md
 
 ##### Links:
@@ -30,8 +29,3 @@ This rating is intended to indicate how certain Brakeman is that the given warni
 - <span style="color:red">High</span> - Either this is a simple warning or user input is very likely being used in unsafe ways.
 - <span style="color:yellow">Medium</span> - This generally indicates an unsafe use of a variable, but the variable may or may not be user input.
 - <span style="color:Green">High</span> - Typically means user input was indirectly used in a potentially unsafe manner.
-___
-### Reads:
-- [[CompTIA_PT0-002_All-in-One_Guide.pdf]] - Page 571
-- [[CompTIA_PT0-002_Sybex_Study_Guide.pdf]] - Page 70
-- [[CompTIA_PT0-002_For_Dummies.pdf]] - Page 358

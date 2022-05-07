@@ -7,7 +7,6 @@ ___
 	- [Reconnaissance](https://attack.mitre.org/tactics/TA0043/) -> [T1595 Active Scanning](https://attack.mitre.org/techniques/T1595/) -> [002 Vulnerability Scanning](https://attack.mitre.org/techniques/T1595/002/)
 	- [Initial Access](https://attack.mitre.org/tactics/TA0001/) -> [T1190 Exploit public-Facing Application](https://attack.mitre.org/techniques/T1190/)
 - Publisher / Developer: [NCCGroup](https://www.nccgroup.com/)
-- OS: #UnixLike
 - License: Commercial / Freemium
 
 ##### Links:

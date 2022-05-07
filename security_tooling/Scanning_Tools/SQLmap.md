@@ -9,7 +9,6 @@ ___
 - Publisher / Developer: 
 	- [Bernardo Damele Assumpcao Guimaraes](mailto:bernardo@sqlmap.org)
 	- [Miroslav Stampar](mailto:miroslav@sqlmap.org).
-- OS: #UnixLike 
 - License: https://github.com/sqlmapproject/sqlmap/blob/master/LICENSE
 
 ##### Links:

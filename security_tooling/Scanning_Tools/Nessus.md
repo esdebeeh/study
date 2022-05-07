@@ -10,7 +10,6 @@ ___
 - MITRE: 
 	- [Reconnaissance](https://attack.mitre.org/tactics/TA0043/) -> [T1595 Active Scanning](https://attack.mitre.org/techniques/T1595/) -> [002 Vulnerability Scanning](https://attack.mitre.org/techniques/T1595/002/)
 - Publisher / Developer: https://www.tenable.com/ 
-- OS: #UnixLike, Debian6_amd64 (recommended)
 - License: Commercial / Essentials Version for free
 
 ##### Links:
@@ -18,7 +17,7 @@ ___
 - Nessus Essentials: https://www.tenable.com/products/nessus/nessus-essentials
 - Docs: https://docs.tenable.com/Nessus.htm
 - Tenable Website: https://www.tenable.com/
-- TryHackMe: 
+- TryHackMe: https://tryhackme.com/room/rpnessusredux
 - HTBAcademy:
 ___
 ## Screens:

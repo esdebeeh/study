@@ -9,7 +9,6 @@ ___
 - MITRE: 
 	- [Reconnaissance](https://attack.mitre.org/tactics/TA0043/) -> [T1595 Active Scanning](https://attack.mitre.org/techniques/T1595/) -> [002 Vulnerability Scanning](https://attack.mitre.org/techniques/T1595/002/)
 - Publisher / Developer: https://en.wikipedia.org/wiki/Chris_Sullo
-- OS: #UnixLike
 - License: GNU GPL v2
 
 ##### Links:
