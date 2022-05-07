@@ -18,6 +18,3 @@ ___
 - HTBAcademy: 
 	- https://academy.hackthebox.com/module/details/17 - Hacking Wordpress
 	- https://academy.hackthebox.com/module/details/113 - Attacking Common Applications
-___
-## Screens:
-![[wpscan_screen_1.png]]

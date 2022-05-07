@@ -26,8 +26,4 @@ ___
 	- https://academy.hackthebox.com/module/details/110 - Using Web Proxies
 	- https://academy.hackthebox.com/module/details/112 - Footprinting
 
-## Screens:
-![[sqlmap_screen_1.png]]
-![[sqlmap_screen_2.png]]
-
 

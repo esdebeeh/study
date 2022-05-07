@@ -16,8 +16,3 @@ ___
 - TryHackMe: %
 - HTB-Academy: %
 
-## Screens:
-![[scoutsuite_screen_3.png]]
-![[scoutsuite_screen_1.png]]
-![[scoutsuite_screen_2.png]]
-

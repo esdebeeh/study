@@ -17,8 +17,4 @@ ___
 - TryHackMe: %
 - HTBAcademy: %
 
-___
-## Screens:
-![[wapiti_screen_1.png]]
-
 

@@ -20,9 +20,6 @@ ___
 - TryHackMe: 
 - HTBAcademy:
 ___
-### Screens:
-![[brakeman_screen_1.png]]
-*Brakeman Static Code Analysis Output*
 
 ##### Confidence: 
 This rating is intended to indicate how certain Brakeman is that the given warning is a real problem.

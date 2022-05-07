@@ -15,8 +15,4 @@ ___
 - TryHackMe: https://tryhackme.com/room/openvas
 - TryHackMe: 
 - HTBAcademy:
- ___
-## Screens:
-![[openvas_screen_2.png]]
-![[openvas_screen_1.png]]
 
