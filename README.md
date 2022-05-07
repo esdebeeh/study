@@ -1,2 +1,2 @@
 # study
-fields by topic, mainly mindmaps that i use as an overview when learning
+fields by topic, mainly the mindmaps i use as an overview when learning
