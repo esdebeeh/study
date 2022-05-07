@@ -18,4 +18,8 @@ ___
 - Docs: https://docs.tenable.com/Nessus.htm
 - Tenable Website: https://www.tenable.com/
 - TryHackMe: https://tryhackme.com/room/rpnessusredux
+<<<<<<< Updated upstream
 - HTBAcademy:
+=======
+- HTBAcademy:
+>>>>>>> Stashed changes
